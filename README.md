@@ -19,6 +19,11 @@
 
 
 
+Here as a wireframe for the restaurant:
+![wireframe ](./pictures/wireframe.png)
+
+
+
 
 
 
